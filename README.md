@@ -1,6 +1,6 @@
 # SFML Sound Test
 
-A simple test app for the SFML sound API. This app loads and plays sound effects and music tracks and tests all functions of the SFML sound API.
+A simple test app for the SFML sound API.
 
 Sounds are from [freesound.org](http://freesound.org) and licensed via [Creative Commons](http://creativecommons.org/). See `Resources/attribution.md` for complete list of attributions and licensing information for all audio tracks.
 
