@@ -1,0 +1,26 @@
+-- Save this file as "paths.lua" in the same folder.
+-- Fill in your values for the variables.
+
+--[[
+
+-----------------------------------------------------------
+-- Windows Sample
+-----------------------------------------------------------
+
+-- Table of include directories
+INC_DIRS = { "E:/Dev/libs/bin/gcc-4.6.2/sfml/include", "HotPotato", "E:/Dev/libs/bin/gcc-4.6.2/include" }
+
+-- Table of library directories
+LIB_DIRS = { "E:/Dev/libs/bin/gcc-4.6.2/sfml/lib", "E:/Dev/libs/bin/gcc-4.6.2/lib" }
+
+-----------------------------------------------------------
+-- Mac Sample
+-----------------------------------------------------------
+
+-- Table of include directories
+INC_DIRS = { "/Users/spmonahan/Dev/libs/bin/include", "/usr/local/include/" }
+
+-- Table of library directories
+LIB_DIRS = { "/Users/spmonahan/Dev/libs/bin/lib", "/usr/local/lib/" }
+
+--]]
